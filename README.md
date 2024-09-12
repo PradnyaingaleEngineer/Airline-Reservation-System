@@ -1,2 +1,14 @@
 # Airline-Reservation-System
-The Airline Reservation System is a web application for booking flights and managing reservations. Users can search flights, view details, and make bookings. It utilizes a database to store flight and user data, with CRUD operations for efficient management of flights and reservations.
+This is a project done in java,mysql and contains functionalities like searching flights,book tickets,cancel tickets etc..<br>
+I have attached a sql file so that you can run the file and create database.<br>
+<b>Admin Details</b><br>
+username: flight_admin<br>
+password: 123 <br>
+One can use these admin details to add routes,flights etc..<br>
+Note that advance bookings can be made upto 1 week only. <br>
+Here I used promo codes also for discounts. All flights are non-stop flights having direct routes. <br>
+Tickets are also generated and can be cancelled.
+
+
+
+
